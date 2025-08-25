@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\aspnetframework\\Devops\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FAD642D7-BFB9-4218-BB0B-537F85A869DB}|Testapp\\Testapp.csproj|d:\\aspnetframework\\devops\\testapp\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAD642D7-BFB9-4218-BB0B-537F85A869DB}|Testapp\\Testapp.csproj|solutionrelative:testapp\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2398D72-7E57-4FFC-AC7B-C5D58C8C711B}|Devops\\Devops.csproj|d:\\aspnetframework\\devops\\devops\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2398D72-7E57-4FFC-AC7B-C5D58C8C711B}|Devops\\Devops.csproj|solutionrelative:devops\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\aspnetframework\\Devops\\Testapp\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Testapp\\UnitTest1.cs",
+              "ToolTip": "D:\\aspnetframework\\Devops\\Testapp\\UnitTest1.cs",
+              "RelativeToolTip": "Testapp\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T05:31:49.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\aspnetframework\\Devops\\Devops\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "Devops\\Pages\\Index.cshtml",
               "ToolTip": "D:\\aspnetframework\\Devops\\Devops\\Pages\\Index.cshtml",
               "RelativeToolTip": "Devops\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-25T04:32:08.815Z",
               "EditorCaption": ""
