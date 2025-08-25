@@ -2,7 +2,7 @@ namespace Testapp
 {
     public class Tests
     {
-        [SetUp]
+        [SetUp] 
         public void Setup()
         {
         }

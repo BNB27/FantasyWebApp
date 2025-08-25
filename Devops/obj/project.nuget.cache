@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "D/HMGdYOShM=",
+  "dgSpecHash": "+UEpI64aY3I=",
   "success": true,
   "projectFilePath": "D:\\aspnetframework\\Devops\\Devops\\Devops.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\nithis.boopathiraj\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
   "logs": []
 }
